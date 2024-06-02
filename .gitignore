@@ -1,0 +1,10 @@
+# Ignore this file directory
+serviceAccount.json
+upload.py
+file.json
+.env
+node_modules/
+users_model.cpython-311.pyc
+realtors_model.cpython-311.pyc
+properties_model.cpython-311.pyc
+.pyc
